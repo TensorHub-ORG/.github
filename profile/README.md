@@ -1,7 +1,6 @@
 # TensorHub
 
 > 向量实验室 & 向量工作室 | 西南石油大学 · 四川大学 · 郑州大学 · 上海大学 · 南京理工大学 · 南京航空航天大学
-> Open-Source AI & Mathematical Modeling Team | Affiliated with SWPU, SCU, ZZU, SHU, NJUST, NUAA
 
 ## 👋 关于我们 | About Us
 
