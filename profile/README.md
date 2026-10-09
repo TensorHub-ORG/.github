@@ -1,10 +1,10 @@
 # TensorHub
 
-> 向量实验室 & 向量工作室 | 西南石油大学 · 四川大学 · 郑州大学 · 上海大学 · 南京理工大学 · 南京航空航天大学
+> 向量实验室 & 向量工作室 | 四川大学 · 西南石油大学 · 郑州大学 · 上海大学 · 南京理工大学 · 南京航空航天大学
 
 ## 👋 关于我们 | About Us
 
-**TensorHub** 是一个跨多所高校的开源与开发组织，由数学、计算机及人工智能专业的研究生与本科生共同组成。
+**TensorHub** 是一个跨高校开源与开发组织，由数学、计算机及人工智能专业的研究生与本科生共同组成。
 
 **TensorHub** is an open-source and development organization spanning multiple universities, consisting of graduate and undergraduate students majoring in mathematics, computer science, and artificial intelligence.
 
